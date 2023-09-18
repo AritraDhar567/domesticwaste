@@ -1,0 +1,173 @@
+ #fours{ 
+    z-index: 500;
+    position: absolute;
+    left: 58vw;
+    top: -13vh;
+    height: 90px;
+    width: 70px;
+    transition-property: all;
+    transition-duration: 1s;
+    
+}.mainhover:hover > #fours{
+    display:inline-block;
+     }  
+     
+#solid-waste-composting{
+        z-index: 502;
+        position: absolute;
+        left: 995px;
+        top: -10vh;
+        height: 270px;
+        width: 270px;
+        transition-property: all;
+        transition-duration: 1s;
+     }
+#solid-waste-composting:hover{
+        left: 700px;
+        height: 500px;
+        width: 500px;
+        z-index: 1000;
+    }
+    #solid-waste-composting-2{
+        z-index: 502;
+        position: absolute;
+        left: 995px;
+        top: 40vh;
+        height: 270px;
+        width: 270px;
+        transition-property: all;
+        transition-duration: 1s;
+    }
+    #solid-waste-composting-2:hover{
+        left: 700px;
+        height: 500px;
+        width: 500px;
+        z-index: 1000;
+    }
+    #ewaste1{
+        z-index: 502;
+        position: absolute;
+        left: 995px;
+        top: -15vh;
+        height: 270px;
+        width: 270px;
+        transition-property: all;
+        transition-duration: 1s;
+    }#ewaste1:hover{
+        left: 700px;
+        height: 500px;
+        width: 500px;
+        z-index: 1000;
+    }
+    #ewaste2{
+        z-index: 502;
+        position: absolute;
+        left: 995px;
+        top: 30vh;
+        height: 270px;
+        width: 270px;
+        transition-property: all;
+        transition-duration: 1s;
+    }#ewaste2:hover{
+        left: 700px;
+        height: 500px;
+        width: 500px;
+        z-index: 1000;
+    }
+ #liquid1{
+    z-index: 502;
+    position: absolute;
+    left: 995px;
+    top: -15vh;
+    
+    height: 270px;
+    width: 270px;
+    transition-property: all;
+    transition-duration: 1s;
+    }
+    #liquid1:hover{
+        left: 750px;
+        height: 450px;
+        width: 450px;
+        z-index: 1000;
+    }
+#plastic1{
+    z-index: 502;
+    position: absolute;
+    left: 1005px;
+    top: -17vh; 
+    height: 200px;
+    width: 200px;
+    transition-property: all;
+    transition-duration: 1s;
+}
+#plastic1:hover{
+    left: 900px;
+        height: 350px;
+        width: 350px;
+        z-index: 1000;
+}
+#plastic2{
+    z-index: 502;
+    position: absolute;
+    left: 1005px;
+    top: 18vh; 
+    height: 200px;
+    width: 200px;
+    transition-property: all;
+    transition-duration: 1s;
+}
+#plastic2:hover{
+    left: 900px;
+        height: 350px;
+        width: 350px;
+        z-index: 1000;
+}
+#metal1{ z-index: 502;
+    position: absolute;
+    left: 1005px;
+    top: -10vh; 
+    height: 250px;
+    width: 250px;
+    transition-property: all;
+    transition-duration: 1s;
+}
+#metal1:hover{
+    left: 750px;
+        height: 450px;
+        width: 450px;
+        z-index: 1000;
+}
+#rolegov1{
+    height: 1150px;
+    width: 565px;
+    left: 28.5vw;
+    z-index: 500;
+    top: 2vh;
+    position: relative;
+}
+#rolegov2{
+    height: 1175px;
+    left: 29vw;
+    top: 0.61vh;
+    width: 535px;
+    z-index: 500;
+    position: relative;
+}
+#benefits1{
+    z-index: 502;
+    position: absolute;
+    left: 995px;
+    top: -15vh;
+    
+    height: 270px;
+    width: 260px;
+    transition-property: all;
+    transition-duration: 1s;
+}#benefits1:hover{
+    left: 800px;
+        height: 400px;
+        width: 400px;
+        z-index: 1000;
+}
+
